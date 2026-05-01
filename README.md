@@ -1,4 +1,8 @@
 # FM4UQ
 Flow matching for sampling perturbed initial states and sensitivity analysis of dynamical systems.
 
-![Logo](./diffusion.png)
+![Forcasting using diffusion.](./diffusion.png) Forcasting using diffusion
+
+![Forcasting using our method.](./ours.png) Forcasting using our method
+
+
