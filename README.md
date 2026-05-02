@@ -17,7 +17,7 @@ Exact Solution (State Space): <br>
 $$x^2 = 16y^2 \(1-y^2\) $$ <br>
 
 So, residual = $$ x^2 - 16y^2 \(1-y^2\) $$. <br>
-Also, amplitude = 8y^2/ (16y^2 - x^2)^(0.5) <br>
+Also, amplitude = $$8y^2/ (16y^2 - x^2)^(0.5)$$ <br>
 
 
 | Metric  | Diffusion  | Ours  | 
