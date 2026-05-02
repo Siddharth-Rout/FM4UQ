@@ -1,6 +1,17 @@
 # FM4UQ
 Flow matching for sampling perturbed initial states and sensitivity analysis of dynamical systems.
 
+System: 
+$$\ddot{x} + 4x = 0$$
+$$\ddot{y} + y = 0$$
+
+Exact Solution (Parametric):
+$$x = 2sin(2t) $$
+$$y = cos(t) $$
+
+Exact Solution (State Space):
+$$x**2 = 16y**2 \(1-y**2\) $$
+
 | Metric  | Diffusion  | Ours  | 
 |---|---|---|
 |Residual   | 1.6158e-02  | 6.7683e-04  |
