@@ -7,7 +7,7 @@ $$\ddot{y} + k^2 \omega^2 y = 0$$ <br>
 
 Amplitude $$A = 2$$ <br>
 Skewness factor $$k = 0.5$$ <br>
-Angular Velocity$$\omega=2$$ <br>
+Angular Velocity $$\omega = 2$$ <br>
 
 Exact Solution (Parametric): <br>
 $$x = 2sin(2t) $$ <br>
