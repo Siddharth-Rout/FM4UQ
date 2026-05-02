@@ -1,7 +1,7 @@
 # FM4UQ
 Flow matching for sampling perturbed initial states and sensitivity analysis of dynamical systems.
 
-System: <br>
+System: 2-mode Harmonic Oscillator<br>
 $$\ddot{x} + \omega^2 x = 0$$ <br>
 $$\ddot{y} + k^2 \omega^2 y = 0$$ <br>
 
