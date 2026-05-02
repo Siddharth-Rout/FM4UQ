@@ -10,7 +10,7 @@ $$x = 2sin(2t) $$
 $$y = cos(t) $$
 
 Exact Solution (State Space):
-$$x**2 = 16y**2 \(1-y**2\) $$
+$$x^2 = 16y^2 \(1-y^2\) $$
 
 | Metric  | Diffusion  | Ours  | 
 |---|---|---|
