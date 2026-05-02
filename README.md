@@ -16,7 +16,7 @@ $$y = cos(t) $$ <br>
 Exact Solution (State Space): <br>
 $$x^2 = 16y^2 \(1-y^2\) $$ <br>
 
-So, residual ($x_1$ , $y_1$) = $${x_1}^2 - 16{y_1}^2 (1-{y_1}^2)$$ . <br>
+So, residual ($x_1$ , $y_1$) = $${x_1}^2 - 16{y_1}^2 (1-{y_1}^2)$$ . <br> <br> <br>
 Also, amplitude  ($x_1$ , $y_1$) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ . <br>
 
 
