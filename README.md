@@ -5,9 +5,9 @@ System: <br>
 $$\ddot{x} + \omega^2 x = 0$$ <br>
 $$\ddot{y} + k^2 \omega^2 y = 0$$ <br>
 
-Amplitude = 2
-k = 0.5
-$$\omega$$ = 2
+Amplitude = 2 <br>
+k = 0.5 <br>
+$$\omega$$ = 2 <br>
 
 Exact Solution (Parametric): <br>
 $$x = 2sin(2t) $$ <br>
