@@ -49,4 +49,5 @@ time = $\pi$/8
 |Amplitude |	1.98E+00 |	1.41E+00 |	1.99E+00 |	2.00E+00 |	2.00E+00 |	1.99E+00 |	1.92E+00 |	1.87E+00|
 |Mean Squared Error of Amplitude | 6.09E-02 |	2.21E-01	| 3.91E-02	| 3.26E-02 |	4.17E-02 |	6.64E-02	| 3.97E+00 |	9.20E+00 |
 
-![Mean squared residual.](./MS_residual.png) Varying mean squared residual for various perturbation strengths $\sigma$s.
+![Mean squared residual.](./MS_residual.png) <br>
+Varying mean squared residual for various perturbation strengths $\sigma$s.
