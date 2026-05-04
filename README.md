@@ -54,8 +54,8 @@ time = $\pi$/4
 | Mean Squared Error of Amplitude |	1.14E-03 |	1.50E-03 |	2.36E-03 |	1.43E-02 |	2.09E-02 |	1.95E-02 |	3.45E-02 |	3.78E-01 |
 
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
-| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |
-| ![Alt 1](/uq_figs/Figure_0_001_2.png) | ![Alt 2](/uq_figs/Figure_0_005_2.png) | ![Alt 3](/uq_figs/Figure_0_01_2.png) | ![Alt 1](/uq_figs/Figure_0_02_2.png) | ![Alt 2](/uq_figs/Figure_0_05_2.png) | ![Alt 3](/uq_figs/Figure_0_1_2.png) | ![Alt 2](/uq_figs/Figure_0_2_2.png) | ![Alt 3](/uq_figs/Figure_0_5_2.png) |
+| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| Images| <img src="/uq_figs/Figure_0_001_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_005_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_01_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_02_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_05_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_1_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_2_2.png" alt="Alt Text" width="500" > | <img src="/uq_figs/Figure_0_5_2.png" alt="Alt Text" width="500" > |
 
 ![Mean squared residual.](./MS_residual.png) <br>
 Varying mean squared residual for various perturbation strengths $\sigma$.
