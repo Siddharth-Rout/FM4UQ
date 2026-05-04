@@ -32,15 +32,6 @@ Also, amplitude  ($x_1$ , $y_1$) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ . 
 ![Forcasting using our method.](./ours.png) Forcasting using our method
 
 
-time = $\pi$/4
-| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
-|----|----|----|----|----|----|----|----|---|
-| Mean Residual |	-8.22E-04 |	-7.97E-04 |	-8.29E-04 |	-9.40E-05 |	2.55E-03 |	 -1.13e-03  |	-2.58E-03 |	-2.60E-01 |
-| Mean Squared Residual |	7.01E-07 |	1.22E-06 |	3.01E-06 |	1.10E-04 |	2.38E-04 |	2.05E-04 |	7.39E-04 |	7.30E+00 |
-| Mean Amplitude |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.02E+00 |
-| Mean Squared Error of Amplitude |	1.14E-03 |	1.50E-03 |	2.36E-03 |	1.43E-02 |	2.09E-02 |	1.95E-02 |	3.45E-02 |	3.78E-01 |
-
-
 time = $\pi$/8
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
 |----|----|----|----|----|----|----|----|---|
@@ -49,5 +40,23 @@ time = $\pi$/8
 |Amplitude |	1.98E+00 |	1.41E+00 |	1.99E+00 |	2.00E+00 |	2.00E+00 |	1.99E+00 |	1.92E+00 |	1.87E+00|
 |Mean Squared Error of Amplitude | 6.09E-02 |	2.21E-01	| 3.91E-02	| 3.26E-02 |	4.17E-02 |	6.64E-02	| 3.97E+00 |	9.20E+00 |
 
+| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
+| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |
+| ![Alt 1](/uq_figs/Figure_0_001_3.png) | ![Alt 2](/uq_figs/Figure_0_005_3.png) | ![Alt 3](/uq_figs/Figure_0_01_3.png) | ![Alt 1](/uq_figs/Figure_0_02_3.png) | ![Alt 2](/uq_figs/Figure_0_05_3.png) | ![Alt 3](/uq_figs/Figure_0_1_3.png) | ![Alt 2](/uq_figs/Figure_0_2_3.png) | ![Alt 3](/uq_figs/Figure_0_5_3.png) |
+
+time = $\pi$/4
+| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
+|----|----|----|----|----|----|----|----|---|
+| Mean Residual |	-8.22E-04 |	-7.97E-04 |	-8.29E-04 |	-9.40E-05 |	2.55E-03 |	 -1.13e-03  |	-2.58E-03 |	-2.60E-01 |
+| Mean Squared Residual |	7.01E-07 |	1.22E-06 |	3.01E-06 |	1.10E-04 |	2.38E-04 |	2.05E-04 |	7.39E-04 |	7.30E+00 |
+| Mean Amplitude |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.02E+00 |
+| Mean Squared Error of Amplitude |	1.14E-03 |	1.50E-03 |	2.36E-03 |	1.43E-02 |	2.09E-02 |	1.95E-02 |	3.45E-02 |	3.78E-01 |
+
+| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
+| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |
+| ![Alt 1](/uq_figs/Figure_0_001_2.png) | ![Alt 2](/uq_figs/Figure_0_005_2.png) | ![Alt 3](/uq_figs/Figure_0_01_2.png) | ![Alt 1](/uq_figs/Figure_0_02_2.png) | ![Alt 2](/uq_figs/Figure_0_05_2.png) | ![Alt 3](/uq_figs/Figure_0_1_2.png) | ![Alt 2](/uq_figs/Figure_0_2_2.png) | ![Alt 3](/uq_figs/Figure_0_5_2.png) |
+
 ![Mean squared residual.](./MS_residual.png) <br>
 Varying mean squared residual for various perturbation strengths $\sigma$.
+
+
