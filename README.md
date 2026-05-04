@@ -1,7 +1,6 @@
-# FM4UQ
-Flow matching for sampling perturbed initial states and sensitivity analysis of dynamical systems.
+# Flow matching for sampling perturbed initial states and sensitivity analysis of dynamical systems.
 
-System: 2-mode Harmonic Oscillator<br>
+**System:** 2-mode Harmonic Oscillator<br>
 $$\ddot{x} + \omega^2 x = 0$$ <br>
 $$\ddot{y} + k^2 \omega^2 y = 0$$ <br>
 
@@ -19,7 +18,7 @@ $$x^2 = 16y^2 \(1-y^2\) $$ <br>
 So, residual ( $x_1$ , $y_1$ ) = $${x_1}^2 - 16{y_1}^2 (1-{y_1}^2)$$ . <br> <br> 
 Also, amplitude  ( $x_1$ , $y_1$ ) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ . <br> <br>
 
-
+# Experiments
 | Metric  | Diffusion  | Ours  | 
 |---|---|---|
 |Mean Residual   | 1.62e-02  | 6.77e-04  |
