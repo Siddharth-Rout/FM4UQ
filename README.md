@@ -41,8 +41,8 @@ time = $\pi$/8
 |Mean Squared Error of Amplitude | 6.09E-02 |	2.21E-01	| 3.91E-02	| 3.26E-02 |	4.17E-02 |	6.64E-02	| 3.97E+00 |	9.20E+00 |
 
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
-| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |
-| ![Alt 1](/uq_figs/Figure_0_001_3.png) | ![Alt 2](/uq_figs/Figure_0_005_3.png) | ![Alt 3](/uq_figs/Figure_0_01_3.png) | ![Alt 1](/uq_figs/Figure_0_02_3.png) | ![Alt 2](/uq_figs/Figure_0_05_3.png) | ![Alt 3](/uq_figs/Figure_0_1_3.png) | ![Alt 2](/uq_figs/Figure_0_2_3.png) | ![Alt 3](/uq_figs/Figure_0_5_3.png) |
+| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
+| ![Alt 1](/uq_figs/Figure_0_001_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_005_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_01_3.png =100x200) | ![Alt 1](/uq_figs/Figure_0_02_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_05_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_1_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_2_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_5_3.png =100x200) |
 
 time = $\pi$/4
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
