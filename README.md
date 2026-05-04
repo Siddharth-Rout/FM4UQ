@@ -33,9 +33,7 @@ Also, amplitude  ( $x_1$ , $y_1$ ) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ 
 
 ## time = $\pi$ /8
 
-| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
-| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| Images| ![Figure 0.001](/uq_figs/Figure_0_001_3.png) | ![Figure 0.005](/uq_figs/Figure_0_005_3.png) | ![Figure 0.01](/uq_figs/Figure_0_01_3.png) | ![Figure 0.02](/uq_figs/Figure_0_02_3.png) | ![Figure 0.05](/uq_figs/Figure_0_05_3.png) | ![Figure 0.1](/uq_figs/Figure_0_1_3.png) | ![Figure 0.2](/uq_figs/Figure_0_2_3.png) | ![Figure 0.5](/uq_figs/Figure_0_5_3.png) |
+
 
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
 |----|----|----|----|----|----|----|----|---|
@@ -58,9 +56,7 @@ Also, amplitude  ( $x_1$ , $y_1$ ) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ 
 | Mean Amplitude |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.00E+00 |	2.02E+00 |
 | Mean Squared Error of Amplitude |	1.14E-03 |	1.50E-03 |	2.36E-03 |	1.43E-02 |	2.09E-02 |	1.95E-02 |	3.45E-02 |	3.78E-01 |
 
-| $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
-| :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| Images| ![Figure 0.001](/uq_figs/Figure_0_001_2.png) | ![Figure 0.005](/uq_figs/Figure_0_005_2.png) | ![Figure 0.01](/uq_figs/Figure_0_01_2.png) | ![Figure 0.02](/uq_figs/Figure_0_02_2.png) | ![Figure 0.05](/uq_figs/Figure_0_05_2.png) | ![Figure 0.1](/uq_figs/Figure_0_1_2.png) | ![Figure 0.2](/uq_figs/Figure_0_2_2.png) | ![Figure 0.5](/uq_figs/Figure_0_5_2.png) |
+
 
 # Comparison
 ![Mean squared residual.](./MS_residual.png) <br>
