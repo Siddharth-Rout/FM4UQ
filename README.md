@@ -42,7 +42,8 @@ time = $\pi$/8
 
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
 | :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| ![Alt 1](/uq_figs/Figure_0_001_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_005_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_01_3.png =100x200) | ![Alt 1](/uq_figs/Figure_0_02_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_05_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_1_3.png =100x200) | ![Alt 2](/uq_figs/Figure_0_2_3.png =100x200) | ![Alt 3](/uq_figs/Figure_0_5_3.png =100x200) |
+| Images| <img src="/uq_figs/Figure_0_001_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_005_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_01_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_02_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_05_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_1_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_2_3.png" alt="Alt Text" width="10" > | <img src="/uq_figs/Figure_0_5_3.png" alt="Alt Text" width="10" > |
+
 
 time = $\pi$/4
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
