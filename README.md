@@ -32,7 +32,7 @@ Also, amplitude  ( $x_1$ , $y_1$ ) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ 
 ![Forcasting using our method.](./ours.png) Forcasting using our method
 
 
-# time = $\pi$/8
+## time = $\pi$/8
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
 |----|----|----|----|----|----|----|----|---|
 |Mean Residual	| 2.46E-03 |	1.88E-03 |	1.18E-03	| 5.00E-04 |	7.41E-04 |	1.49E-03 |	3.90E-03	| 3.31e-02| 
@@ -44,7 +44,7 @@ Also, amplitude  ( $x_1$ , $y_1$ ) = $$\frac{8y_1^2}{(16y_1^2 - x_1^2)^{0.5}}$$ 
 | :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |:---: |
 | Images| ![Figure 0.001](/uq_figs/Figure_0_001_3.png) | ![Figure 0.005](/uq_figs/Figure_0_005_3.png) | ![Figure 0.01](/uq_figs/Figure_0_01_3.png) | ![Figure 0.02](/uq_figs/Figure_0_02_3.png) | ![Figure 0.05](/uq_figs/Figure_0_05_3.png) | ![Figure 0.1](/uq_figs/Figure_0_1_3.png) | ![Figure 0.2](/uq_figs/Figure_0_2_3.png) | ![Figure 0.5](/uq_figs/Figure_0_5_3.png) |
 
-# time = $\pi$/4
+## time = $\pi$/4
 | $\sigma$	| 0.001	| 0.005 |	0.01	| 0.02 | 0.05 |	0.1	| 0.2	| 0.5 |
 |----|----|----|----|----|----|----|----|---|
 | Mean Residual |	-8.22E-04 |	-7.97E-04 |	-8.29E-04 |	-9.40E-05 |	2.55E-03 |	 -1.13e-03  |	-2.58E-03 |	-2.60E-01 |
